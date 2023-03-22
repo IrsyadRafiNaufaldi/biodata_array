@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.borderatas{
+    background-color: white;
+    width: 100%;
+    height: 85px;
+    padding-top: 10px;
+    letter-spacing: 10px;
+    font-size: 18px;
+}
+
+h3{
+    font-family: 'Amatic SC';
+    font-size: 25px;
+}
+
+.kotak{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto{
+    width: auto;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.potokiri{
+    float: left;
+}
+
+.tulisankanan{
+    float:right;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 100px;
+    letter-spacing: 1px;
+}
+
+.tulisannamaku{
+    background-color: yellow;
+    margin-right: 160px;
+}
+
+.isitulisankanan{
+    margin-top: 10px;
+    letter-spacing: 1px;
+    font-family: 'Golos Text';
+    text-align: justify;
+}
+
+.kotakbawah{
+    margin-top: 100px;
+}
+
+.JenjangPendidikan{
+    float: left;
+    width: 40%;
+    height: 200px;
+    letter-spacing: 1px;
+    background-color: white;
+    margin-left: 80px;
+    border-radius: 20px;
+}
+
+.Judulpendidikan{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: greenyellow;
+    padding: 10px;
+    font-family: 'Tilt Neon'
+}
+
+.isipendidikan{
+    padding-left: 80px;
+}
+
+.SosialMedia{
+    float: right;
+    width: 40%;
+    height: 200px;
+    letter-spacing: 1px;
+    background-color: white;
+    margin-right: 80px;
+    border-radius: 20px;
+}
+
+.Judulmedia{
+    text-align: center;
+    background-color: greenyellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: 'Tilt Neon';
+}
+
+.isimedia{
+    padding-left: 130px;
+}
+
+.borderbawah{
+    background-color: white;
+    display: flex;
+    margin-top: 400px;
+    width: 100%;
+    height: 50px;
+    letter-spacing: 10px;
+    font-size: 18px;
+}
